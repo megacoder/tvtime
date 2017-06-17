@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE stationlist PUBLIC "-//tvtime//DTD stationlist 1.0//EN" "http://tvtime.sourceforge.net/DTD/stationlist1.dtd">
+<stationlist xmlns="http://tvtime.sourceforge.net/DTD/">
+  <list norm="NTSC" frequencies="Custom" audio="bg">
+    <station name="78.75MHz" active="1" position="1" band="Custom" channel="78.75MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="81.00MHz" active="1" position="2" band="Custom" channel="81.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="DirecTv" active="1" position="3" band="Custom" channel="95.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="108.25MHz" active="1" position="4" band="Custom" channel="108.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="136.00MHz" active="1" position="5" band="Custom" channel="136.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="142.00MHz" active="1" position="6" band="Custom" channel="142.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="258.25MHz" active="1" position="7" band="Custom" channel="258.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="306.50MHz" active="1" position="8" band="Custom" channel="306.50MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="330.25MHz" active="1" position="9" band="Custom" channel="330.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="336.00MHz" active="1" position="10" band="Custom" channel="336.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="440.00MHz" active="1" position="11" band="Custom" channel="440.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="446.00MHz" active="1" position="12" band="Custom" channel="446.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="517.00MHz" active="1" position="13" band="Custom" channel="517.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="566.25MHz" active="1" position="14" band="Custom" channel="566.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="575.00MHz" active="1" position="15" band="Custom" channel="575.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="656.00MHz" active="1" position="16" band="Custom" channel="656.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="701.75MHz" active="1" position="17" band="Custom" channel="701.75MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="833.50MHz" active="1" position="18" band="Custom" channel="833.50MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="865.50MHz" active="1" position="19" band="Custom" channel="865.50MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="893.25MHz" active="1" position="20" band="Custom" channel="893.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="956.50MHz" active="1" position="21" band="Custom" channel="956.50MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="55.00MHz" active="1" position="22" band="Custom" channel="55.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="63.50MHz" active="1" position="23" band="Custom" channel="63.50MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="160.75MHz" active="1" position="24" band="Custom" channel="160.75MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="193.25MHz" active="1" position="25" band="Custom" channel="193.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="228.25MHz" active="1" position="26" band="Custom" channel="228.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="514.25MHz" active="1" position="27" band="Custom" channel="514.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="527.50MHz" active="1" position="28" band="Custom" channel="527.50MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="547.75MHz" active="1" position="29" band="Custom" channel="547.75MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="638.25MHz" active="1" position="30" band="Custom" channel="638.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="639.00MHz" active="1" position="31" band="Custom" channel="639.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="722.75MHz" active="1" position="32" band="Custom" channel="722.75MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="818.00MHz" active="1" position="33" band="Custom" channel="818.00MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="830.25MHz" active="1" position="34" band="Custom" channel="830.25MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="866.75MHz" active="1" position="35" band="Custom" channel="866.75MHz" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="888.75MHz" active="1" position="36" band="Custom" channel="888.75MHz" finetune="0" norm="NTSC" audio="auto"/>
+  </list>
+  <list norm="NTSC" frequencies="us-broadcast" audio="bg">
+    <station name="2" active="1" position="2" band="US Broadcast" channel="2" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="3" active="1" position="3" band="US Broadcast" channel="3" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="4" active="1" position="4" band="US Broadcast" channel="4" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="5" active="1" position="5" band="US Broadcast" channel="5" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="6" active="1" position="6" band="US Broadcast" channel="6" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="7" active="1" position="7" band="US Broadcast" channel="7" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="8" active="1" position="8" band="US Broadcast" channel="8" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="9" active="1" position="9" band="US Broadcast" channel="9" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="10" active="1" position="10" band="US Broadcast" channel="10" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="11" active="1" position="11" band="US Broadcast" channel="11" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="12" active="1" position="12" band="US Broadcast" channel="12" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="13" active="1" position="13" band="US Broadcast" channel="13" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="14" active="1" position="14" band="US Broadcast" channel="14" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="15" active="1" position="15" band="US Broadcast" channel="15" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="16" active="1" position="16" band="US Broadcast" channel="16" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="17" active="1" position="17" band="US Broadcast" channel="17" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="18" active="1" position="18" band="US Broadcast" channel="18" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="19" active="1" position="19" band="US Broadcast" channel="19" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="20" active="1" position="20" band="US Broadcast" channel="20" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="21" active="1" position="21" band="US Broadcast" channel="21" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="22" active="1" position="22" band="US Broadcast" channel="22" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="23" active="1" position="23" band="US Broadcast" channel="23" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="24" active="1" position="24" band="US Broadcast" channel="24" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="25" active="1" position="25" band="US Broadcast" channel="25" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="26" active="1" position="26" band="US Broadcast" channel="26" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="27" active="1" position="27" band="US Broadcast" channel="27" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="28" active="1" position="28" band="US Broadcast" channel="28" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="29" active="1" position="29" band="US Broadcast" channel="29" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="30" active="1" position="30" band="US Broadcast" channel="30" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="31" active="1" position="31" band="US Broadcast" channel="31" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="32" active="1" position="32" band="US Broadcast" channel="32" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="33" active="1" position="33" band="US Broadcast" channel="33" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="34" active="1" position="34" band="US Broadcast" channel="34" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="35" active="1" position="35" band="US Broadcast" channel="35" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="36" active="1" position="36" band="US Broadcast" channel="36" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="37" active="1" position="37" band="US Broadcast" channel="37" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="38" active="1" position="38" band="US Broadcast" channel="38" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="39" active="1" position="39" band="US Broadcast" channel="39" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="40" active="1" position="40" band="US Broadcast" channel="40" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="41" active="1" position="41" band="US Broadcast" channel="41" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="42" active="1" position="42" band="US Broadcast" channel="42" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="43" active="1" position="43" band="US Broadcast" channel="43" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="44" active="1" position="44" band="US Broadcast" channel="44" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="45" active="1" position="45" band="US Broadcast" channel="45" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="46" active="1" position="46" band="US Broadcast" channel="46" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="47" active="1" position="47" band="US Broadcast" channel="47" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="48" active="1" position="48" band="US Broadcast" channel="48" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="49" active="1" position="49" band="US Broadcast" channel="49" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="50" active="1" position="50" band="US Broadcast" channel="50" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="51" active="1" position="51" band="US Broadcast" channel="51" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="52" active="1" position="52" band="US Broadcast" channel="52" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="53" active="1" position="53" band="US Broadcast" channel="53" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="54" active="1" position="54" band="US Broadcast" channel="54" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="55" active="1" position="55" band="US Broadcast" channel="55" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="56" active="1" position="56" band="US Broadcast" channel="56" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="57" active="1" position="57" band="US Broadcast" channel="57" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="58" active="1" position="58" band="US Broadcast" channel="58" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="59" active="1" position="59" band="US Broadcast" channel="59" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="60" active="1" position="60" band="US Broadcast" channel="60" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="61" active="1" position="61" band="US Broadcast" channel="61" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="62" active="1" position="62" band="US Broadcast" channel="62" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="63" active="1" position="63" band="US Broadcast" channel="63" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="64" active="1" position="64" band="US Broadcast" channel="64" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="65" active="1" position="65" band="US Broadcast" channel="65" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="66" active="1" position="66" band="US Broadcast" channel="66" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="67" active="1" position="67" band="US Broadcast" channel="67" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="68" active="1" position="68" band="US Broadcast" channel="68" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="69" active="1" position="69" band="US Broadcast" channel="69" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="70" active="1" position="70" band="US Broadcast" channel="70" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="71" active="1" position="71" band="US Broadcast" channel="71" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="72" active="1" position="72" band="US Broadcast" channel="72" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="73" active="1" position="73" band="US Broadcast" channel="73" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="74" active="1" position="74" band="US Broadcast" channel="74" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="75" active="1" position="75" band="US Broadcast" channel="75" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="76" active="1" position="76" band="US Broadcast" channel="76" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="77" active="1" position="77" band="US Broadcast" channel="77" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="78" active="1" position="78" band="US Broadcast" channel="78" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="79" active="1" position="79" band="US Broadcast" channel="79" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="80" active="1" position="80" band="US Broadcast" channel="80" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="81" active="1" position="81" band="US Broadcast" channel="81" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="82" active="1" position="82" band="US Broadcast" channel="82" finetune="0" norm="NTSC" audio="auto"/>
+    <station name="83" active="1" position="83" band="US Broadcast" channel="83" finetune="0" norm="NTSC" audio="auto"/>
+  </list>
+</stationlist>
